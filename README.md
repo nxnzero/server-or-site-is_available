@@ -1,2 +1,2 @@
-# server-or-site-is_available
-from script-monkey to manQA...
+# Описание
+Изучаю Python и библиотеку Requests
